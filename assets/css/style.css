@@ -796,6 +796,26 @@ width: 100%
     transition: 0.3s linear;
 }
 
+
+
+
+
+/*-------------Certtificated------------------*/
+.certificates {
+  position: relative; 
+}
+
+.certificate img {
+   width:380px;
+   height:250px;
+  box-shadow: 0 4px 6px rgb(0, 0, 0);
+overflow:hidden;
+    margin-bottom: 30px;
+
+
+}
+
+
 /*-------------------------------------
         11. Contact
 --------------------------------------*/
